@@ -1,0 +1,9 @@
+Javascript Interview Questions
+
+1. Regular expression for specified syntax
+
+^[a-zA-Z]+[a-bA-Z0-9]+@[a-zA-Z0-9]+.[a-zA-Z0-9]{2,3}$
+
++ - one or more of preceding token
+[]- Range
+{2, 3} - Limit number of characters to 2 to 3f
